@@ -36,6 +36,7 @@ nav ul li {
 nav li:first-child {
   border-left: none;
 }
+
 main{
   display: flex;
   gap: 10px;
